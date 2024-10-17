@@ -1,8 +1,7 @@
 const express = require('express'); // Importa o framework Express 
 const dotenv = require('dotenv'); // Importa o pacote dotenv para gerenciar variáveis de 
-ambiente 
-const cors = require('cors'); // Importa o pacote cors para permi r requisições de diferentes 
-origens 
+ 
+const cors = require('cors'); // Importa o pacote cors para permi r requisições de diferentes origens 
 const bodyParser = require('body-parser'); // Importa o pacote body-parser para analisar o corpo das requisições HTTP
 
 
